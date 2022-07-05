@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(147, 199, 215);
+}
+
+.pics>img {
+    height: 200px;
+
+
+}
+
+img {
+    height: 250px;
+}
+
+.header,
+.score {
+    display: grid;
+    place-items: center;
+}
+
+p {
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+.pics {
+    margin: 2%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10%;
+}
+
+.main {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 1fr 1fr 5fr;
+
+}
