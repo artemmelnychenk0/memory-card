@@ -1,0 +1,2 @@
+*{background-color:#93c7d7;box-sizing:border-box;margin:0;padding:0}.pics>img{height:200px}img{height:250px}.header,.score{display:grid;place-items:center}p{font-size:25px;margin-left:20px}.pics{grid-gap:10%;gap:10%;grid-template-columns:repeat(4,1fr);height:100%;margin:2%}.main,.pics{display:grid}.main{grid-template-rows:1fr 1fr 5fr;height:100vh}
+/*# sourceMappingURL=main.a19a9a77.css.map*/
