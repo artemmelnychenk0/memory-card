@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/artemmelnychenk0/memory-card/static/css/main.a19a9a77.css",
-    "main.js": "/artemmelnychenk0/memory-card/static/js/main.aa435734.js",
-    "static/media/chris.png": "/artemmelnychenk0/memory-card/static/media/chris.2969ba54f797cc8e3df0.png",
-    "static/media/logo.png": "/artemmelnychenk0/memory-card/static/media/logo.0d1ce5e037aa18d0bc63.png",
-    "static/media/cleveland.png": "/artemmelnychenk0/memory-card/static/media/cleveland.7eb7d5318b638071b9b5.png",
-    "static/media/stewie.png": "/artemmelnychenk0/memory-card/static/media/stewie.7672f102d9af57c3fd46.png",
-    "static/media/herbert.png": "/artemmelnychenk0/memory-card/static/media/herbert.6b12befeda7492165add.png",
-    "static/media/quagmire.png": "/artemmelnychenk0/memory-card/static/media/quagmire.0497bc5b23cd7b389d25.png",
-    "static/media/brian.png": "/artemmelnychenk0/memory-card/static/media/brian.5113d815c55396518891.png",
-    "static/media/lois.png": "/artemmelnychenk0/memory-card/static/media/lois.5894a97f4fe6a9eb134d.png",
-    "static/media/ghostface.png": "/artemmelnychenk0/memory-card/static/media/ghostface.39dcb0e9da2f75b60031.png",
-    "static/media/vinny.png": "/artemmelnychenk0/memory-card/static/media/vinny.1ee5d5c2a0833c4a455f.png",
-    "static/media/meg.png": "/artemmelnychenk0/memory-card/static/media/meg.1b34dbf1a9827d2b24b2.png",
-    "static/media/joe.png": "/artemmelnychenk0/memory-card/static/media/joe.6517df110ccd69c23809.png",
-    "static/media/peter.png": "/artemmelnychenk0/memory-card/static/media/peter.540063b28051b4149a8c.png",
-    "index.html": "/artemmelnychenk0/memory-card/index.html",
-    "main.a19a9a77.css.map": "/artemmelnychenk0/memory-card/static/css/main.a19a9a77.css.map",
-    "main.aa435734.js.map": "/artemmelnychenk0/memory-card/static/js/main.aa435734.js.map"
+    "main.css": "/memory-card/static/css/main.a19a9a77.css",
+    "main.js": "/memory-card/static/js/main.17522ac7.js",
+    "static/media/chris.png": "/memory-card/static/media/chris.2969ba54f797cc8e3df0.png",
+    "static/media/logo.png": "/memory-card/static/media/logo.0d1ce5e037aa18d0bc63.png",
+    "static/media/cleveland.png": "/memory-card/static/media/cleveland.7eb7d5318b638071b9b5.png",
+    "static/media/stewie.png": "/memory-card/static/media/stewie.7672f102d9af57c3fd46.png",
+    "static/media/herbert.png": "/memory-card/static/media/herbert.6b12befeda7492165add.png",
+    "static/media/quagmire.png": "/memory-card/static/media/quagmire.0497bc5b23cd7b389d25.png",
+    "static/media/brian.png": "/memory-card/static/media/brian.5113d815c55396518891.png",
+    "static/media/lois.png": "/memory-card/static/media/lois.5894a97f4fe6a9eb134d.png",
+    "static/media/ghostface.png": "/memory-card/static/media/ghostface.39dcb0e9da2f75b60031.png",
+    "static/media/vinny.png": "/memory-card/static/media/vinny.1ee5d5c2a0833c4a455f.png",
+    "static/media/meg.png": "/memory-card/static/media/meg.1b34dbf1a9827d2b24b2.png",
+    "static/media/joe.png": "/memory-card/static/media/joe.6517df110ccd69c23809.png",
+    "static/media/peter.png": "/memory-card/static/media/peter.540063b28051b4149a8c.png",
+    "index.html": "/memory-card/index.html",
+    "main.a19a9a77.css.map": "/memory-card/static/css/main.a19a9a77.css.map",
+    "main.17522ac7.js.map": "/memory-card/static/js/main.17522ac7.js.map"
   },
   "entrypoints": [
     "static/css/main.a19a9a77.css",
-    "static/js/main.aa435734.js"
+    "static/js/main.17522ac7.js"
   ]
 }
